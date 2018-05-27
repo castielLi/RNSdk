@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RNSdk_Example' do
+  pod 'RNSdk', :path => '../'
+
+  target 'RNSdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
