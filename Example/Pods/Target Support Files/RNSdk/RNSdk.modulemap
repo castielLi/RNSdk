@@ -1,0 +1,6 @@
+framework module RNSdk {
+  umbrella header "RNSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

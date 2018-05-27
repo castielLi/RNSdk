@@ -1,0 +1,22 @@
+{
+  "name": "RNSdk",
+  "version": "0.1.0",
+  "summary": "A short description of RNSdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/252182398@qq.com/RNSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "252182398@qq.com": "252182398@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/252182398@qq.com/RNSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RNSdk/Classes/**/*"
+}
